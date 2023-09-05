@@ -2,8 +2,11 @@
 > I'm Ganesh Kumarappan, an incoming freshman at the University of California, San Diego majoring in Data Science and Math + Computer Science.
 
 ## Current Projects and Experiences
-- dsf
-- 
+- Focus tracker
+- Labs worked on in the Summer Program for Incoming Students
+  - 
+
+
 <!--
 **ganeshkumar321/ganeshkumar321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
