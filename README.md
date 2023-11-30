@@ -3,6 +3,9 @@
 
 ## Current Projects and Experiences
 - Focus tracker
+  - Developed a focus tracker in Google Colab that detects if the phone is in the camera frame in real-time
+  - Trained a Yolov5 model using Python with 74 percent validation accuracy
+  - Wrote Python script to take pictures of phone to use in manually created dataset of 827 images
 ## Labs worked on in the Summer Program for Incoming Students
 - Lab 08: Using flask to create website and deployed full web app to Render
 
