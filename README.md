@@ -3,8 +3,8 @@
 
 ## Current Projects and Experiences
 - Focus tracker
-- Labs worked on in the Summer Program for Incoming Students
-  - Lab 08: Using flask to create website and deployed full web app to Render
+## Labs worked on in the Summer Program for Incoming Students
+- Lab 08: Using flask to create website and deployed full web app to Render
 
 
 <!--
